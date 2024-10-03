@@ -54,7 +54,7 @@ const TaskManager = () => {
           placeholder="Add new task"
           style={{ marginRight: '10px' }} // Add space between input and button
         />
-        <button onClick={addTask}>Add Task</button>
+        <button onClick={addTask}>Add Tasks</button>
       </div>
 
       <ul style={{ listStyleType: 'disc', paddingLeft: '20px' }}>
